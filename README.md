@@ -6,13 +6,13 @@ A machine learning project to predict bank customer churn using advanced ML mode
 
 | Phase | Duration | Description |
 |-------|----------|-------------|
-| Data Collection | Week 1 | Gather and preprocess bank customer data |
-| Exploratory Data Analysis | Week 2 | Analyze patterns and feature relationships |
-| Feature Engineering | Week 3 | Create meaningful features and handle missing values |
-| Model Development | Week 4-5 | Train and evaluate multiple ML models |
-| Model Selection | Week 6 | Select best performing model |
-| API Development | Week 7 | Build FastAPI for model serving |
-| Docker Deployment | Week 8 | Containerize and deploy application |
+| Data Collection | Day 1 | Gather and preprocess bank customer data |
+| Exploratory Data Analysis | Day 2 | Analyze patterns and feature relationships |
+| Feature Engineering | Day 3 | Create meaningful features and handle missing values |
+| Model Development | Day 4-5 | Train and evaluate multiple ML models |
+| Model Selection | Day 6 | Select best performing model |
+| API Development | Day 7 | Build FastAPI for model serving |
+| Docker Deployment | Day 8 | Containerize and deploy application |
 
 ## Project Structure
 
